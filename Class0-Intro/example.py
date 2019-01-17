@@ -2,6 +2,6 @@
 
 x = 3
 y = x + 4
-z = x * y
+z = x / y
 print(z)
 
